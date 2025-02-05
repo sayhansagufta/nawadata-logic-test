@@ -1,0 +1,7 @@
+C:\Users\Shayhan\source\repos\Test_Logic_NAWADATA_Solutions\Test_Logic_NAWADATA_Solutions\bin\Debug\Test_Logic_NAWADATA_Solutions.exe.config
+C:\Users\Shayhan\source\repos\Test_Logic_NAWADATA_Solutions\Test_Logic_NAWADATA_Solutions\bin\Debug\Test_Logic_NAWADATA_Solutions.exe
+C:\Users\Shayhan\source\repos\Test_Logic_NAWADATA_Solutions\Test_Logic_NAWADATA_Solutions\bin\Debug\Test_Logic_NAWADATA_Solutions.pdb
+C:\Users\Shayhan\source\repos\Test_Logic_NAWADATA_Solutions\Test_Logic_NAWADATA_Solutions\obj\Debug\Test_Logic_NAWADATA_Solutions.csproj.AssemblyReference.cache
+C:\Users\Shayhan\source\repos\Test_Logic_NAWADATA_Solutions\Test_Logic_NAWADATA_Solutions\obj\Debug\Test_Logic_NAWADATA_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Shayhan\source\repos\Test_Logic_NAWADATA_Solutions\Test_Logic_NAWADATA_Solutions\obj\Debug\Test_Logic_NAWADATA_Solutions.exe
+C:\Users\Shayhan\source\repos\Test_Logic_NAWADATA_Solutions\Test_Logic_NAWADATA_Solutions\obj\Debug\Test_Logic_NAWADATA_Solutions.pdb
