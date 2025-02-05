@@ -1,7 +1,7 @@
 ﻿# Test Data Logic
 
 **Test Data Logic** adalah program konsol sederhana yang berisi dua fitur utama:
-1. **Sorting Numbers** - Untuk mengurutkan Huruf Konsonan dan Vokal.
+1. **Sorting Characters** - Untuk mengurutkan Huruf Konsonan dan Vokal.
 2. **PSBB (Pembatasan Sosial Berskala Besar)** - Untuk menghitung jumlah bus minimum yang diperlukan untuk keluarga dengan aturan kapasitas tertentu.
 
 ## Cara Menjalankan Program
